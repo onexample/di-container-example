@@ -1,0 +1,36 @@
+# OS or Editor files #
+._*
+.DS_Store
+Thumbs.db
+.vim-bookmarks
+.cache
+.settings
+.idea
+.project
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+nbproject
+.vscode
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# NPM
+.npmignore
+
+# Logs and databases #
+*.log
+*.sqlite
+
+# Dependency Managers #
+node_modules
+
+# Locally Built Stuff #
+test-report.xml
+coverage/
+reports/
+conf/
+dist/
